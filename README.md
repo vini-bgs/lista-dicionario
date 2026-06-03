@@ -1,1 +1,1 @@
-# lista-dicionario
+# RESOLUÇÃO DE EXERCÍCIOS
